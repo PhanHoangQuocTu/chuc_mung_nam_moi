@@ -280,12 +280,9 @@
 }
 /* text new year */
 body {
-	background-image: url(https://mondaycareer.com/wp-content/uploads/2020/11/background-%C4%91%E1%BA%B9p-t%E1%BA%BFt-14.jpg);
-    background-size: 100% 100vh;
-	display: grid;
-	place-items: center;
-	margin: 0;
-	height: 100vh;
+	--border-color: rgb(#f6abb6, #fec8c1 , #54b2a9);
+    background-image: linear-gradient(#acddde, #caf1de, #e1f8dc);
+    height: 100vh;
 }
 body .inner {
 	/* display: none; */
