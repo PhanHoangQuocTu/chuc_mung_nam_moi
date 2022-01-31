@@ -11,6 +11,7 @@ html {
     --border-color: rgb(#f6abb6
     , #fec8c1 , #54b2a9);
     background-image: linear-gradient(#acddde, #caf1de, #e1f8dc);
+    background-size: 100% 100vh;
     height: 100vh;
 }
 .text {
