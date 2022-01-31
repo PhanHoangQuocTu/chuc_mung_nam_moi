@@ -354,7 +354,7 @@ body .inner .greeting svg.underline {
 }
 body .inner .greeting svg.underline .underlineAnim {
 	fill: none;
-	stroke: #c5ba9a;
+	stroke: #c9a04e;
 	stroke-linecap: round;
 	stroke-miterlimit: 10;
 	stroke-width: 10px;
@@ -372,7 +372,7 @@ body .inner .greeting svg.shine {
 }
 body .inner .greeting svg.shine .shineAnim {
 	fill: none;
-	stroke: #c5ba9a;
+	stroke: #c9a04e;
 	stroke-linecap: round;
 	stroke-miterlimit: 10;
 	stroke-width: 10px;
@@ -394,7 +394,7 @@ body .inner .circles .circle-s {
 	width: 12px;
 }
 body .inner .circles .circle-l, body .inner .circles .circle-s {
-	background-color: #c6ba9b;
+	background-color: #c9a04e;
 	border-radius: 50%;
 	position: absolute;
 	animation: scale 0.5s forwards ease-out;
